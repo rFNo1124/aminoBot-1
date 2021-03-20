@@ -1,5 +1,5 @@
 {   "scripts": {
-            "start": "node your-script.js"
+            "start": "python follow.py"
     },
     "name":"rin-amino-bot",
     "version":"0.0.9"
