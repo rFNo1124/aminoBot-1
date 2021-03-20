@@ -19,4 +19,6 @@ i = 0
 while True:
     users = client.get_all_users(start=i, size=25).profile.userId
     client.follow(users)
+    print("done")
     time.sleep(5)
+    i = i+1
