@@ -1,4 +1,6 @@
-{
+{   "scripts": {
+            "start": "node your-script.js"
+    },
     "name":"rin-amino-bot",
     "version":"0.0.9"
 }
